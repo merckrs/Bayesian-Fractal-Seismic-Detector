@@ -67,7 +67,7 @@ If you use this code or methodology in your research, please cite the following 
 ```bibtex
 @article{KaanBozanlı2025,
   title={Non-parametric Detection of Critical Precursors in Non-Equilibrium Systems via Bayesian-Fractal Energy Ranking},
-  author={Kaan, Bozanlı},
+  author={Bozanlı, Kaan},
   journal={Preprint / GitHub Repository},
   year={2025},
   url={https://github.com/your-username/repo-name}
