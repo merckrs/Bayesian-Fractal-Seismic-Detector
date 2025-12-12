@@ -1,3 +1,4 @@
+```python
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -101,3 +102,4 @@ def generate_all_figures():
 
 if __name__ == "__main__":
     generate_all_figures()
+```
