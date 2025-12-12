@@ -65,9 +65,9 @@ Tested against 50 randomized seismic events based on USGS catalog characteristic
 If you use this code or methodology in your research, please cite the following working paper:
 
 ```bibtex
-@article{YourSurname2025,
+@article{KaanBozanlı2025,
   title={Non-parametric Detection of Critical Precursors in Non-Equilibrium Systems via Bayesian-Fractal Energy Ranking},
-  author={YourName, YourSurname},
+  author={Kaan, Bozanlı},
   journal={Preprint / GitHub Repository},
   year={2025},
   url={https://github.com/your-username/repo-name}
